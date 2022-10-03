@@ -1,4 +1,5 @@
 %% Controllo Velocità Motore
+%Luca Erviati Università degli Studi di Napoli Federico II
 
 clear all, close all, clc
 
